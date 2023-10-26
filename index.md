@@ -2,12 +2,12 @@
 
 ## Introduction
 
-The course is a supplementary component to the machine learning class taught in MT 2023. The objectives are:
-1. Deepen and examine the understanding of learned theoretical knowledge 
-2. Develop intuition regarding how algorithmic designs affect testing performance
-3. Enhance coding skills
-4. Get a taste of using new tech to learn unknown things to solve real world problems
+The course serves as a supplement to the machine learning class taught in MT 2023, with the following objectives:
 
+1. Deepen and explore the understanding of theoretical knowledge.
+2. Develop intuition about how algorithmic designs impact testing performance.
+3. Enhance coding skills.
+4. Gain experience in using new technologies to solve real-world problems and learn about unfamiliar concepts.
 
 ### Course format and platform
 
@@ -22,7 +22,7 @@ We will start with a short lecture and then the students do coding. We will use 
 
 ### Policy on ChatGPT
 
-Students can ask GPT to provide code assistance only for option 3. For options 1 and 2, students can request non-coding assistance from ChatGPT.
+Students can ask ChatGPT to provide code assistance only for option 3. For options 1 and 2, students can request non-coding assistance from ChatGPT.
 
 ### Grading and Attendance
 
@@ -61,20 +61,29 @@ You are provided three options below and required to complete 1.5 option (one op
 
 ### Option 1: Supervised learning
 
-- Q1. Regression. I will provide a dataset and several testing performances in the form of learning curves resulting from several algorithmic designs (e.g. w/wo regularization, different optimizers (SGD/Adam), and hyperparameter settings (regularization weight, learning rate). Students need to: 1) guess which algorithmic design results in a certain learning curve; and 2) do coding to verify their guesses (reproduce those learning curves). Some math derivations may be needed before coding. 
+- Q1. Regression: I will provide a simple dataset and learning curves resulting from various algorithmic designs (e.g., with/without regularization, different optimizers like SGD/Adam, and different hyperparameter settings). Students should:
 
-Algorithms to be covered: l2, Naive Bayes, with different function approximators (linear and NNs). 
+  1. Predict which algorithmic design corresponds to a given learning curve.
+  2. Implement the algorithms with corresponding algorithmic choices to reproduce the learning curves. Some mathematical derivations may be required before coding.
+  3. Estimate training sample density function and draw samples from it.  (TBD)
 
-- Q2. Classification. SVM and logistic regression. The students need to 1) visualize decision boundary and explain why different algorithms result in different boundary; 2) investigate how different hyper-parameter choices and data separability would affect the decision boundary.
+Algorithms covered: L2 regularization, Naive Bayes, using different function approximators (linear and neural networks).
+
+- Q2. Classification: SVM and logistic regression and logistic with NNs. Students should:
+  1. Visualize decision boundaries and explain the differences between algorithms.
+  2. Investigate how different hyperparameter choices and data separability impact the decision boundary.
+  3. Estimate training sample density function and draw samples from it.  (TBD)
 
 ### Option 2: Semi/Unsupervised learning
 
-- Q1. Generative models: autoencoder. They will need to implement several commonly seen autoencoders: sparse, denoising, and conditional. I will provide a task description and they choose the right method or combination of methods to use. 
+- Q1. Generative Models. Autoencoders: Students will implement various autoencoders, including sparse, denoising, and conditional types. I will provide task descriptions, and students will select the appropriate method or combination of methods for the task and draw samples from the autoencoders. 
 
-- Q2. Compare latent SVM and another algorithm on two types of object detection task. The students are required to 1) guess which algorithm perform better on a certain task; 2) do coding to verify their guess. 
+- Q2. Comparative Analysis of Latent SVM and Another Algorithm in Object Detection: Students will:
+  1. Predict which algorithm performs better for specific object detection tasks.
+  2. Implement the chosen algorithms to validate their predictions.
 
 ### Option 3: ChatGPT-assisted Coding
 
-- Q1. An uncommonly seen algorithm (I likely give a matrix factorization algorithm  or a gamma regression) is given in a non-python programming language (that are unlikely covered in the class), the students are allowed to query GPT to implement the algorithm in python to get desired performance.  
+- Q1. Uncommon Algorithm Implementation: An algorithm that's not taught in the MT2023, possibly a matrix factorization algorithm or a gamma regression, will be presented in a non-Python programming language not covered in the class. Students needs to implement in Python to achieve the desired performance, with the help of ChatGPT.
 
-- Q2. Time-restricted task: the students must finish this question within a time budget and I will do the timing in class. A dataset is provided. The student needs to use ChatGPT to finish a whole pipeline of applying a ML algorithm, from data preprocessing to achieving a target testing performance. 
+- Q2. Time-Restricted Task: Students must complete this question within a set time limit, which I will monitor in class. A dataset is provided, and students will utilize ChatGPT to complete the entire pipeline, from data preprocessing to achieving a target testing performance using a machine learning algorithm.
