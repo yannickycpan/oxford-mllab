@@ -1,1 +1,1 @@
-# Machine learning lab, 2024 Hilary
+Machine learning lab, 2024 Hilary
