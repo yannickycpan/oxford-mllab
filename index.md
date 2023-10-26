@@ -38,7 +38,7 @@ Lunch break: 11:50 am - 1:20 pm
 
 ## Schedule
 
-You are provided three options below and required to complete 1.5 option (one option + one question from another option). We will use [[google colab]](https://colab.research.google.com/) as a platform for exercises. 
+You are provided three options below and required to complete 1.5 option (one option + one question from another option). We will use [[google colab]](https://colab.research.google.com/) as a platform for exercises. Sufficient hint/code will be provided in the colab file for each option. 
 
 **NOTE 1: for each colab file below, you should make a copy in your own google drive to edit & run.**
 
@@ -78,7 +78,7 @@ Algorithms covered: L2 regularization, Naive Bayes, using different function app
 
 - Q1. Generative Models. Autoencoders: Students will implement various autoencoders, including sparse, denoising, and conditional types. I will provide task descriptions, and students will select the appropriate method or combination of methods for the task and draw samples from the autoencoders. 
 
-- Q2. Comparative Analysis of Latent SVM and Another Algorithm in Object Detection: Students will:
+- Q2. Comparative Analysis of Latent SVM and Another Algorithm in Object Detection. (TBD) Students will:
   1. Predict which algorithm performs better for specific object detection tasks.
   2. Implement the chosen algorithms to validate their predictions.
 
