@@ -2,108 +2,79 @@
 
 ## Introduction
 
-The course will provide an overview of fundamental concepts and algorithms in machine learning. Mathematical and coding exercises will be provided to deepen understanding of these concepts and algorithms. The topics include: 
+The course is a supplementary component to the machine learning class taught in MT 2023. The objectives are:
+1. Deepen and examine the understanding of learned theoretical knowledge 
+2. Develop intuition regarding how algorithmic designs affect testing performance
+3. Enhance coding skills
+4. Get a taste of using new tech to learn unknown things to solve real world problems
 
- - Regression/Classification Basics: Linear regression, logistic regression, probability interpretations, generalized linear models, etc.
- - Optimization: convexity, (stochastic) gradient descent, momentum method, line search, second-order methods, gradient-free optimizations, etc.
- - Neural Networks: classic neural network architectures and training techniques using PyTorch and TensorFlow.
 
-### Course format
+### Course format and platform
 
-We will interleave lecture and coding. We will use Google colab as the platform to do exercises. 
+We will start with a short lecture and then the students do coding. We will use [[google colab]](https://colab.research.google.com/) as a platform for exercises.  
                 
 ## Instructors
 
-- Lab organizer: Dr. Yangchen Pan (Email: yangchen.eng.ox@gmail.com)
-- TAs: Dr. Jindong Gu, Dr. Alasdair Paren, Shivani Mall (Ph.D. student)
+- Instructor: Dr. Yangchen Pan (Email: yangchen.eng.ox@gmail.com)
+- TAs: TBD
 
 ## Course Policy
 
-### Grading
+### Policy on ChatGPT
 
-Naming rules: for example, for exercise1, you may have: firstname-lastname-ex1.ipynb
+Students can ask GPT to provide code assistance only for option 3. For options 1 and 2, students can request non-coding assistance from ChatGPT.
 
-**Email: yangchen.eng.ox@gmail.com**. Please make sure the files are named correctly as specified above. 
+### Grading and Attendance
 
-Choose three exercise files in total to submit, at least one of them should be from optimization part. Please do not submit anything from the NN part, as the answers were already provided. 
+Before leaving, please ask the instructor or TAs to review your completed exercises. After that, please sign the attendance sheet.
 
-**Email subject line**: Firstname-Lastname-CWMweek7
+**Assignments can be completed in group with at most 3 people, and discussion is encouraged. Everyone in a group receives the same grade.**
 
-Please include the **links** to access your file in your email, so make sure your file is authorized to view for anyone with the link. 
-
-### Attendance
-
-At the end of each day, before leaving, please ask the instructor or TAs to review your completed exercises. After that, please sign the attendance sheet.
-
-**Assignments should be completed individually, however, discussion is encouraged.**
+Students should go to the assigned session unless officially justified evidence is provided (e.g., doctor's note). 
 
 ### Break
 
-1. Lunch break: 11:50 am - 1:20 pm
+Lunch break: 11:50 am - 1:20 pm
 
-2. Weds afternoon
+## Schedule
 
-## Syllabus
-
-We will go through the following content in 5 days. We will use [[google colab]](https://colab.research.google.com/) as a platform for exercises. 
+You are provided three options below and required to complete 1.5 option (one option + one question from another option). We will use [[google colab]](https://colab.research.google.com/) as a platform for exercises. 
 
 **NOTE 1: for each colab file below, you should make a copy in your own google drive to edit & run.**
 
-**NOTE 2: some questions are "optional"---you are suggested but not required to do.**
+**NOTE 2: the content is not good to use before the class officially starts, as there might be last-minute updates.**
 
-**NOTE 3: Students registering for the Week 7 session should not work on the exercises below without prior notice, as there might be significant updates.**
-
-### Course Intro & background review
+### short lecture (<= 0.5 hour)
 
 - Course Introduction
 
 - Colab/Markdown/latex intro [[env intro]](https://colab.research.google.com/drive/1DHVIdXVouXhQmnusmR-JLGBqT2_TsxCF?usp=sharing) 
 
-- Coding exercise: Python Basics 
+- Python Basics 
 [[Numpy]](https://colab.research.google.com/drive/1N_LQdkRL-PrQqtrUtKOXDDRxKW7Whioh?usp=sharing)
 [[Strings]](https://colab.research.google.com/drive/16QB0e6reXr0aYg3QMJbb2Kjpd93cZ1qJ?usp=sharing)
 [[Lists]](https://colab.research.google.com/drive/1cHDaCeHUbNzV-zHpYPRBMNohL4dbxeqB?usp=sharing)
 [[Dictionaries]](https://colab.research.google.com/drive/1pofof5pxzbliUlgZOKAA5LdA6YMqGGuK?usp=sharing)
 [[Tuples]](https://colab.research.google.com/drive/1nqqTPS9GZYyQ9rdCPbMZFWoKdmjtFZv9?usp=sharing)
 
-- Background knowledge review: [[math review]](https://colab.research.google.com/drive/1F9KRUyp2iryZYQ8Oi7psbExSlrBvEMo3?usp=sharing)
-
-### Regression/classification
-
-- Linear Models Lecture [[slides]](https://drive.google.com/file/d/1Ow_0KHG__Dp6ZWc82x-LOvAJAXDbvmxQ/view?usp=sharing)
-
-- Linear regression, [[Exercise 1]](https://colab.research.google.com/drive/1rvxEVveKc6DKwKhrbl3A4hBM3sEq1QjR?usp=sharing) [[Exercise 1-conti]](https://colab.research.google.com/drive/1ZRgz9IXybPCmZxxyXtjhQCZBAt_drSzW?usp=sharing)
-
-- Probability interpretation of regression
-
-- Logistic regression, [[Exercise 2]](https://colab.research.google.com/drive/1uju-Djv8TOOw1lidxq_NamMuHycc83NF?usp=sharing)
-
-- Generalized linear models (GLM), [[Exercise 3]](https://colab.research.google.com/drive/1haTSgsIMBtkYZ0eqkL8hLuOVeppKFcyC?usp=sharing)
-
-- Quick review on object-oriented programming [[OOP reading]](https://colab.research.google.com/drive/1rWW_xM-Yv9tIyNGRF5QtWpjaCz0KajLu?usp=sharing)
-
-### Neural networks (prepared by Dr. Jindong Gu)
-
-- Slides for Neural networks [[PDF]]()
-
-- Neural Network Numpy [[Exercise]]()
-
 - Pytorch Tutorial [[Tutorial]]()
 
-- Neural Network Pytorch [[Exercise]]() [[sol]]()
+### Option 1: Supervised learning
 
-- Convolutional Neural Network Pytorch [[Exercise]]() [[sol]]()
+- Q1. Regression. I will provide a dataset and several testing performances in the form of learning curves resulting from several algorithmic designs (e.g. w/wo regularization, different optimizers (SGD/Adam), and hyperparameter settings (regularization weight, learning rate). Students need to: 1) guess which algorithmic design results in a certain learning curve; and 2) do coding to verify their guesses (reproduce those learning curves). Some math derivations may be needed before coding. 
 
-### Optimization (prepared by Dr. Alasdair Paren)
+Algorithms to be covered: l2, Naive Bayes, with different function approximators (linear and NNs). 
 
-- Optimisation Lecture [[slides]]()
+- Q2. Classification. SVM and logistic regression. The students need to 1) visualize decision boundary and explain why different algorithms result in different boundary; 2) investigate how different hyper-parameter choices and data separability would affect the decision boundary.
 
-- Exercise 4 [[Non-Stochastic Optimization - Regression]]()
+### Option 2: Semi/Unsupervised learning
 
-- Exercise 5 [[Stochastic Optimization - Classification]]()
+- Q1. Generative models: autoencoder. They will need to implement several commonly seen autoencoders: sparse, denoising, and conditional. I will provide a task description and they choose the right method or combination of methods to use. 
 
-<!-- - Cross Entropy Gradient Derivation [[pdf - will take down on sunday]]() -->
+- Q2. Compare latent SVM and another algorithm on two types of object detection task. The students are required to 1) guess which algorithm perform better on a certain task; 2) do coding to verify their guess. 
 
-### Acknowledgement
+### Option 3: ChatGPT-assisted Coding
 
-python basics are adapted from the previous instructor Naeemullah Khan's course.
+- Q1. An uncommonly seen algorithm (I likely give a matrix factorization algorithm  or a gamma regression) is given in a non-python programming language (that are unlikely covered in the class), the students are allowed to query GPT to implement the algorithm in python to get desired performance.  
+
+- Q2. Time-restricted task: the students must finish this question within a time budget and I will do the timing in class. A dataset is provided. The student needs to use ChatGPT to finish a whole pipeline of applying a ML algorithm, from data preprocessing to achieving a target testing performance. 
