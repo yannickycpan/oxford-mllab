@@ -79,7 +79,10 @@ Algorithms covered: L2 regularization, Naive Bayes, using different function app
 
 ### Option 2: Semi/Unsupervised learning
 
-- Q1. Generative Models. Autoencoders: Students will implement various autoencoders, including sparse, denoising, and conditional types. I will provide task descriptions, and students will select the appropriate method or combination of methods for the task and draw samples from the autoencoders. 
+- Q1. Generative Models. Autoencoders: Students will implement various autoencoders, including sparse, denoising, and conditional types.
+  1. I will provide task descriptions, and students will select the appropriate method or combination of methods. 
+  2. Given some target samples, draw samples from the autoencoders.
+  3. Add supervised learning loss, and see how the autoencoders affect supervised learning performance.
 
 - Q2. Comparative Analysis of Latent SVM and Another Algorithm in Object Detection. (TBD) Students will:
   1. Predict which algorithm performs better for specific object detection tasks.
