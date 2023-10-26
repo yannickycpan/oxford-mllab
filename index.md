@@ -4,10 +4,11 @@
 
 The course serves as a supplement to the machine learning class taught in MT 2023, with the following objectives:
 
-1. Deepen and explore the understanding of theoretical knowledge.
-2. Develop intuition about how algorithmic designs impact testing performance.
-3. Enhance coding skills.
-4. Gain experience in using new technologies to solve real-world problems and learn about unfamiliar concepts.
+1. Enhance and delve deeper into the understanding of theoretical knowledge.
+2. Develop intuition about how algorithmic designs affect testing performance.
+3. Learn the implementation and troubleshooting of common ML algorithms.
+4. Acquire proficiency in PyTorch for deep learning.
+5. Gain hands-on experience in applying emerging technologies to address real-world challenges.
 
 ### Course format and platform
 
