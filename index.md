@@ -43,7 +43,9 @@ You are provided three options below and required to complete 1.5 option (one op
 
 **NOTE 1: for each colab file below, you should make a copy in your own google drive to edit & run.**
 
-**NOTE 2: the content is not good to use before the class officially starts, as there might be last-minute updates.**
+**NOTE 2: Option 1-3 have increasing coding requirement, decreasing math requirement.**
+
+**NOTE 3: the content is not good to use before the class officially starts, as there might be last-minute updates.**
 
 ### short lecture (<= 0.5 hour)
 
