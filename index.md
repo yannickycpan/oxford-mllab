@@ -2,7 +2,7 @@
 
 ## Introduction
 
-The lab course serves as a supplement to the machine learning class taught in MT 2023, with the following objectives:
+The lab course serves as a supplement to the theoretical part of machine learning class, with the following objectives:
 
 1. By implementation, reviewing concepts from the theoretical content covered in the previous term.
 2. Develop intuition about how algorithmic designs affect testing performance.
@@ -10,7 +10,7 @@ The lab course serves as a supplement to the machine learning class taught in MT
 
 ### Course format and platform
 
-We will start with a short introduction and then the students do coding. We will use [[google colab]](https://colab.research.google.com/) as a platform for exercises.  
+The students do coding. We will use [[google colab]](https://colab.research.google.com/) as a platform for exercises.  
                 
 ## Instructors
 
@@ -45,13 +45,13 @@ We will use [[google colab]](https://colab.research.google.com/) as a platform f
 
 **NOTE 3: feel free to google offcial docs of some functions when needed.**
 
-### short intro (<= 1 hour)
+### short intro
 
 - Course Introduction
 
 - Colab/Markdown/latex intro [[env intro]](https://colab.research.google.com/drive/1DHVIdXVouXhQmnusmR-JLGBqT2_TsxCF?usp=sharing)
 
-- Numpy
+- [[Numpy]](https://colab.research.google.com/drive/1N_LQdkRL-PrQqtrUtKOXDDRxKW7Whioh?usp=sharing)
 
 - Pytorch (see exercise)
 
