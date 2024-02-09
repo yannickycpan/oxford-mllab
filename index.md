@@ -2,17 +2,15 @@
 
 ## Introduction
 
-The course serves as a supplement to the machine learning class taught in MT 2023, with the following objectives:
+The lab course serves as a supplement to the machine learning class taught in MT 2023, with the following objectives:
 
-1. Enhance and delve deeper into the understanding of theoretical knowledge.
+1. By implementation, reviewing concepts from the theoretical content covered in the previous term.
 2. Develop intuition about how algorithmic designs affect testing performance.
-3. Learn the implementation and troubleshooting of common ML algorithms.
-4. Acquire proficiency in PyTorch for deep learning.
-5. Gain hands-on experience in applying emerging technologies to address real-world challenges.
+3. Gaining a basic familiarity with commonly used Python packages such as sklearn, numpy, and pytorch.
 
 ### Course format and platform
 
-We will start with a short lecture and then the students do coding. We will use [[google colab]](https://colab.research.google.com/) as a platform for exercises.  
+We will start with a short introduction and then the students do coding. We will use [[google colab]](https://colab.research.google.com/) as a platform for exercises.  
                 
 ## Instructors
 
@@ -21,75 +19,52 @@ We will start with a short lecture and then the students do coding. We will use 
 
 ## Course Policy
 
-### Policy on ChatGPT
-
-Students can ask ChatGPT to provide code assistance only for option 3. For options 1 and 2, students can request non-coding assistance from ChatGPT.
-
 ### Grading and Attendance
 
 Before leaving, please ask the instructor or TAs to review your completed exercises. After that, please sign the attendance sheet.
 
-**Assignments can be completed in group with at most 3 people, and discussion is encouraged. Everyone in a group receives the same grade.**
+**Discussion is encouraged. The right answer comes from yourself.**
 
 Students should go to the assigned session unless officially justified evidence is provided (e.g., doctor's note). 
 
-### Break
+### ChatGPTs are not allowed for coding. 
 
-Lunch break: 11:50 am - 1:20 pm
+### Time/Break
 
-## Schedule
+Lab runs from 11:00 am - 5:00 pm, Software Lab B.
 
-You are provided three options below and required to complete 1.5 option (one option + one question from another option). We will use [[google colab]](https://colab.research.google.com/) as a platform for exercises. Sufficient hint/code will be provided in the colab file for each option. 
+Lunch break: 12:45 pm - 2:00 pm
+
+## Content
+
+We will use [[google colab]](https://colab.research.google.com/) as a platform for exercises. Sufficient hint/code will be provided in the colab file for each option. 
 
 **NOTE 1: for each colab file below, you should make a copy in your own google drive to edit & run.**
 
-**NOTE 2: Option 1-3 have increasing coding requirement, decreasing math requirement.**
+**NOTE 2: the content is not good to use before your session officially starts, as there might be last-minute updates.**
 
-**NOTE 3: the content is not good to use before the class officially starts, as there might be last-minute updates.**
+**NOTE 3: feel free to google offcial docs of some functions when needed.**
 
-### short lecture (<= 0.5 hour)
+### short intro (<= 1 hour)
 
 - Course Introduction
 
-- Colab/Markdown/latex intro [[env intro]](https://colab.research.google.com/drive/1DHVIdXVouXhQmnusmR-JLGBqT2_TsxCF?usp=sharing) 
+- Colab/Markdown/latex intro [[env intro]](https://colab.research.google.com/drive/1DHVIdXVouXhQmnusmR-JLGBqT2_TsxCF?usp=sharing)
 
-- Python Basics 
-[[Numpy]](https://colab.research.google.com/drive/1N_LQdkRL-PrQqtrUtKOXDDRxKW7Whioh?usp=sharing)
-[[Strings]](https://colab.research.google.com/drive/16QB0e6reXr0aYg3QMJbb2Kjpd93cZ1qJ?usp=sharing)
-[[Lists]](https://colab.research.google.com/drive/1cHDaCeHUbNzV-zHpYPRBMNohL4dbxeqB?usp=sharing)
-[[Dictionaries]](https://colab.research.google.com/drive/1pofof5pxzbliUlgZOKAA5LdA6YMqGGuK?usp=sharing)
-[[Tuples]](https://colab.research.google.com/drive/1nqqTPS9GZYyQ9rdCPbMZFWoKdmjtFZv9?usp=sharing)
+- Numpy
 
-- Pytorch Tutorial [[Tutorial]]()
+- Pytorch (see exercise)
 
-### Option 1: Supervised learning
+### Part I: Supervised learning
 
-- Q1. Regression: I will provide a simple dataset and learning curves resulting from various algorithmic designs (e.g., with/without regularization, different optimizers like SGD/Adam, and different hyperparameter settings). Students should:
+- [[Regression]](https://colab.research.google.com/drive/1ZdImDbejqFlphpuEfo-DDWUYtumuEXZt?usp=sharing)
 
-  1. Predict which algorithmic design corresponds to a given learning curve.
-  2. Implement the algorithms with corresponding algorithmic choices to reproduce the learning curves. Some mathematical derivations may be required before coding.
-  3. Estimate training sample density function and draw samples from it.  (TBD)
+- [[SVM Classification]](https://colab.research.google.com/drive/1KoBV0mC0MZ8gvHeH5OsBaUZF9jtYbVWd?usp=sharing)
 
-Algorithms covered: L2 regularization, Naive Bayes, using different function approximators (linear and neural networks).
+### Part II: Unsupervised learning
 
-- Q2. Classification: SVM and logistic regression and logistic with NNs. Students should:
-  1. Visualize decision boundaries and explain the differences between algorithms.
-  2. Investigate how different hyperparameter choices and data separability impact the decision boundary.
-  3. Estimate training sample density function and draw samples from it.  (TBD)
+- [[Laplace Approximation]](https://colab.research.google.com/drive/1vd-B0jSvckiCQBtG_f7O9mQ7kcghM_sA?usp=sharing)
 
-### Option 2: Semi/Unsupervised learning
+- [[Sampling Approach]](https://colab.research.google.com/drive/1LhYEb2MFJtu5qs9BtselyCgkVaRYo1Nm?usp=sharing)
 
-- Q1. Generative Models. Autoencoders: Students will implement various autoencoders, including sparse, denoising, and conditional types.
-  1. I will provide task descriptions, and students will select the appropriate method or combination of methods. 
-  2. Given some target samples, draw samples from the autoencoders.
-  3. Add supervised learning loss, and see how the autoencoders affect supervised learning performance.
-
-- Q2. Comparative Analysis of Latent SVM and Another Algorithm in Object Detection. (TBD) Students will:
-  1. Predict which algorithm performs better for specific object detection tasks.
-  2. Implement the chosen algorithms to validate their predictions.
-
-### Option 3: ChatGPT-assisted Coding
-
-- Q1. Uncommon Algorithm Implementation: An algorithm that's not taught in the MT2023, possibly a matrix factorization algorithm or a gamma regression, will be presented in a non-Python programming language not covered in the class. Students needs to implement in Python to achieve the desired performance, with the help of ChatGPT.
-
-- Q2. Time-Restricted Task: Students must complete this question within a set time limit, which I will monitor in class. A dataset is provided, and students will utilize ChatGPT to complete the entire pipeline, from data preprocessing to achieving a target testing performance using a machine learning algorithm.
+- [[(Variational) Autoencoders]](https://colab.research.google.com/drive/1trrFLB4HGk8Q4q14SnfJAk63fkAJDRiI?usp=sharing)
