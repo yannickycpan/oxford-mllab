@@ -14,18 +14,18 @@ The students do coding. We will use [[google colab]](https://colab.research.goog
                 
 ## Instructors
 
-- Instructor: Dr. Yangchen Pan (Email: yangchen.eng.ox@gmail.com)
-- TAs: TBD
+- Instructor: Dr. PAN, Yangchen (Email: yangchen.eng.ox@gmail.com)
+- TAs: Alasdair Paren; Zhiyao Luo. 
 
 ## Course Policy
 
 ### Grading and Attendance
 
-Before leaving, please ask the instructor or TAs to review your completed exercises. After that, please sign the attendance sheet.
+1. Before leaving, please ask the instructor or TAs to review your completed exercises. After that, please sign the attendance sheet. If you are unable to complete it on time, you may email me (yangchen.eng.ox@gmail.com) no later than 5 p.m. the following day, using the email subject: Yourname-SessionDate-mllab2024.
 
-**Discussion is encouraged. The right answer comes from yourself.**
+2. **Discussion is encouraged. The right answer comes from yourself.**
 
-Students should go to the assigned session unless officially justified evidence is provided (e.g., doctor's note). 
+3. Students should go to the assigned session unless officially justified evidence is provided (e.g., doctor's note). 
 
 ### ChatGPTs are not allowed for coding. 
 
@@ -39,11 +39,11 @@ Lunch break: 12:45 pm - 2:00 pm
 
 We will use [[google colab]](https://colab.research.google.com/) as a platform for exercises. Sufficient hint/code will be provided in the colab file for each option. 
 
+**Suggestions on how to approach the exercises:** Avoid spending too much time on a single question. Aim to complete as many questions as you can initially, and then return to the ones you found challenging. The exercises are designed to be (mostly) self-contained, serving as a tutorial. For example, you should be able to learn how to define/train a simple neural network in PyTorch by examining the provided code. Feel free to consult the official documentation for some functions if necessary. We encourage you to try solving problems on your own first, but we are always here to help if you need it. 
+
 **NOTE 1: for each colab file below, you should make a copy in your own google drive to edit & run.**
 
 **NOTE 2: the content is not good to use before your session officially starts, as there might be last-minute updates.**
-
-**NOTE 3: feel free to google offcial docs of some functions when needed.**
 
 ### short intro
 
@@ -65,6 +65,6 @@ We will use [[google colab]](https://colab.research.google.com/) as a platform f
 
 - [[Laplace Approximation]](https://colab.research.google.com/drive/1vd-B0jSvckiCQBtG_f7O9mQ7kcghM_sA?usp=sharing)
 
-- [[Sampling Approach]](https://colab.research.google.com/drive/1LhYEb2MFJtu5qs9BtselyCgkVaRYo1Nm?usp=sharing)
+- [[Sampling Approaches]](https://colab.research.google.com/drive/1LhYEb2MFJtu5qs9BtselyCgkVaRYo1Nm?usp=sharing): inverse transform, rejection, metropolis
 
 - [[(Variational) Autoencoders]](https://colab.research.google.com/drive/1trrFLB4HGk8Q4q14SnfJAk63fkAJDRiI?usp=sharing)
