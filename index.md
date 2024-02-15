@@ -39,11 +39,14 @@ Lunch break: 12:45 pm - 2:00 pm
 
 We will use [[google colab]](https://colab.research.google.com/) as a platform for exercises. Sufficient hint/code will be provided in the colab file for each option. 
 
-**Suggestions on how to approach the exercises:** Avoid spending too much time on a single question. Aim to complete as many questions as you can initially, and then return to the ones you found challenging. The exercises are designed to be (mostly) self-contained, serving as a tutorial. For example, you should be able to learn how to define/train a simple neural network in PyTorch by examining the provided code. Feel free to consult the official documentation for some functions if necessary. We encourage you to try solving problems on your own first, but we are always here to help if you need it. 
+**NOTE: the content is not good to use before your session officially starts, as there might be last-minute updates.**
 
-**NOTE 1: for each colab file below, you should make a copy in your own google drive to edit & run.**
+**Suggestions on how to approach the exercises:** 
 
-**NOTE 2: the content is not good to use before your session officially starts, as there might be last-minute updates.**
+1. Avoid spending too much time on a single question. Aim to complete as many questions as you can initially, and then return to the ones you found challenging.
+2. The exercises are designed to be (mostly) self-contained, serving as a tutorial. For example, you should be able to learn how to define/train a simple neural network in PyTorch by examining the provided code. Feel free to consult the official documentation for some functions if necessary.
+3. We encourage you to try solving problems on your own first, but we are always here to help if you need it. 
+4. **For each colab file below, you should make a copy in your own google drive to edit & run.**
 
 ### short intro
 
@@ -61,7 +64,9 @@ We will use [[google colab]](https://colab.research.google.com/) as a platform f
 
 - [[SVM Classification]](https://colab.research.google.com/drive/1KoBV0mC0MZ8gvHeH5OsBaUZF9jtYbVWd?usp=sharing)
 
-### Part II: Unsupervised learning
+### Part II: Unsupervised learning 
+
+**For this part, reviewing the relevant slides from last term's machine learning course could be helpful)**
 
 - [[Laplace Approximation]](https://colab.research.google.com/drive/1vd-B0jSvckiCQBtG_f7O9mQ7kcghM_sA?usp=sharing)
 
