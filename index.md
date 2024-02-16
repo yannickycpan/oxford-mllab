@@ -56,6 +56,8 @@ We will use [[google colab]](https://colab.research.google.com/) as a platform f
 
 - [[Numpy]](https://colab.research.google.com/drive/1N_LQdkRL-PrQqtrUtKOXDDRxKW7Whioh?usp=sharing): Good enough to know matrix-matrix products
 
+- [[Object Oriented Programming]](https://colab.research.google.com/drive/1rWW_xM-Yv9tIyNGRF5QtWpjaCz0KajLu?usp=sharing): May be helpful to read first few paragraphs
+
 - Pytorch (see exercise)
 
 ### Part I: Supervised learning
