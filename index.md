@@ -14,8 +14,8 @@ The students do coding. We will use [[google colab]](https://colab.research.goog
                 
 ## Instructors
 
-- Instructor: Dr. PAN, Yangchen (Email: yangchen.eng.ox@gmail.com)
-- TAs: Alasdair Paren; Zhiyao Luo. 
+- Instructor: Dr. Yangchen Pan (Email: yangchen.eng.ox@gmail.com)
+- TAs: Dr. Alasdair Paren; Zhiyao Luo. 
 
 ## Course Policy
 
