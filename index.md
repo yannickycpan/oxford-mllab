@@ -15,25 +15,25 @@ The students do coding. We will use [[google colab]](https://colab.research.goog
 ## Instructors
 
 - Instructor: Dr. Yangchen Pan (Email: yangchen.eng.ox@gmail.com)
-- TAs: Dr. Alasdair Paren; Zhiyao Luo. 
+- TAs: Dr. Alasdair Paren; 
 
 ## Course Policy
 
 ### Grading and Attendance
 
-1. Before leaving, please ask the instructor or TAs to review your completed exercises. After that, please sign the attendance sheet. If you are unable to complete it on time, you may email me (yangchen.eng.ox@gmail.com) no later than 5 p.m. the following day, using the email subject: Yourname-SessionDate-mllab2024.
+1. Before leaving, please ask the instructor or TAs to review your completed exercises. After that, please sign the attendance sheet. If you are unable to complete it on time, based on the discretion of the instructor, you may email me (yangchen.eng.ox@gmail.com) no later than 5 p.m. the following day, using the email subject: Yourname-SessionDate-mllab2025.
 
-2. **Discussion is encouraged. The right answer comes from yourself.**
+2. **Discussion is encouraged, and the correct answer should come from your own effort. **
 
-3. Students should go to the assigned session unless officially justified evidence is provided (e.g., doctor's note). 
+3. Students should go to the registered session unless officially justified evidence is provided (e.g., doctor's note). Any absence should be reported to the student office.
 
-### ChatGPTs are not allowed for coding. 
+### AI-based coding tools, such as ChatGPT, Copilot, and similar, are strictly forbidden in this lab. You must disable these tools if they are available in your code editor.
 
 ### Time/Break
 
 Lab runs from 11:00 am - 5:00 pm, Software Lab B.
 
-Lunch break: 12:45 pm - 2:00 pm
+Lunch break: 12:50 pm - 2:00 pm
 
 ## Content
 
@@ -49,8 +49,6 @@ We will use [[google colab]](https://colab.research.google.com/) as a platform f
 4. **For each colab file below, you should make a copy in your own google drive to edit & run.**
 
 ### short intro
-
-- Course Introduction
 
 - Colab/Markdown/latex intro [[env intro]](https://colab.research.google.com/drive/1DHVIdXVouXhQmnusmR-JLGBqT2_TsxCF?usp=sharing)
 
