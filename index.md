@@ -23,9 +23,11 @@ The students do coding. We will use [[google colab]](https://colab.research.goog
 
 1. Before leaving, please ask the instructor or TAs to review your completed exercises. After that, please sign the attendance sheet. If you are unable to complete it on time, based on the discretion of the instructor, you may email me (yangchen.eng.ox@gmail.com) no later than 5 p.m. the following day, using the email subject: Yourname-SessionDate-mllab2025.
 
-2. **Discussion is encouraged, and the correct answer should come from your own effort. **
+2. **Discussion is encouraged, and the correct answer should come from your own effort.**
 
 3. Students should go to the registered session unless officially justified evidence is provided (e.g., doctor's note). Any absence should be reported to the student office.
+
+4. You are allowed to skip at most 4 questions without penalty. There are 17 in total.  
 
 ### AI-based coding tools, such as ChatGPT, Copilot, and similar, are strictly forbidden in this lab. You must disable these tools if they are available in your code editor.
 
@@ -37,7 +39,7 @@ Lunch break: 12:50 pm - 2:00 pm
 
 ## Content
 
-We will use [[google colab]](https://colab.research.google.com/) as a platform for exercises. Sufficient hint/code will be provided in the colab file for each option. 
+We will use [[google colab]](https://colab.research.google.com/) as a platform for exercises. Sufficient hint/code will be provided in the colab file for each option. **Again, please open an empty colab before you start to ensure that AI-based coding tools are disabled.**
 
 **NOTE: the content is not good to use before your session officially starts, as there might be last-minute updates.**
 
