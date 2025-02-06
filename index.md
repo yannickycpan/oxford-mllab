@@ -60,16 +60,16 @@ We will use [[google colab]](https://colab.research.google.com/) as a platform f
 
 ### Part I: Supervised learning
 
-- [[Regression]](https://colab.research.google.com/drive/1ZdImDbejqFlphpuEfo-DDWUYtumuEXZt?usp=sharing)
+- [[Regression]](https://colab.research.google.com/drive/1ZdImDbejqFlphpuEfo-DDWUYtumuEXZt?usp=sharing) [**4 Questions**]
 
-- [[SVM Classification]](https://colab.research.google.com/drive/1KoBV0mC0MZ8gvHeH5OsBaUZF9jtYbVWd?usp=sharing)
+- [[SVM Classification]](https://colab.research.google.com/drive/1KoBV0mC0MZ8gvHeH5OsBaUZF9jtYbVWd?usp=sharing) [**2 Questions**]
 
 ### Part II: Unsupervised learning 
 
 **For this part, reviewing the relevant slides from last term's machine learning course could be helpful)**
 
-- [[Laplace Approximation]](https://colab.research.google.com/drive/1vd-B0jSvckiCQBtG_f7O9mQ7kcghM_sA?usp=sharing)
+- [[Laplace Approximation]](https://colab.research.google.com/drive/1vd-B0jSvckiCQBtG_f7O9mQ7kcghM_sA?usp=sharing)  [**2 Questions**]
 
-- [[Sampling Approaches]](https://colab.research.google.com/drive/1LhYEb2MFJtu5qs9BtselyCgkVaRYo1Nm?usp=sharing): inverse transform, rejection, metropolis
+- [[Sampling Approaches]](https://colab.research.google.com/drive/1LhYEb2MFJtu5qs9BtselyCgkVaRYo1Nm?usp=sharing): inverse transform, rejection, metropolis [**4 Questions**]
 
-- [[(Variational) Autoencoders]](https://colab.research.google.com/drive/1trrFLB4HGk8Q4q14SnfJAk63fkAJDRiI?usp=sharing) [**Optional**]
+- [[(Variational) Autoencoders]](https://colab.research.google.com/drive/1trrFLB4HGk8Q4q14SnfJAk63fkAJDRiI?usp=sharing) [**5 Questions**]
