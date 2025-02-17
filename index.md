@@ -15,7 +15,7 @@ The students do coding. We will use [[google colab]](https://colab.research.goog
 ## Instructors
 
 - Instructor: Dr. Yangchen Pan (Email: yangchen.eng.ox@gmail.com)
-- TAs: Dr. Alasdair Paren; 
+- TAs: Dr. Alasdair Paren; Dr. Cornelius Emde; Qizhen Ying; Jianhao Yuan. 
 
 ## Course Policy
 
@@ -29,7 +29,7 @@ The students do coding. We will use [[google colab]](https://colab.research.goog
 
 4. You are allowed to skip at most 4 questions without penalty. There are 17 in total.  
 
-### AI-based coding tools, such as ChatGPT, Copilot, and similar, are strictly forbidden in this lab. You must disable these tools if they are available in your code editor.
+### AI-based coding tools, such as ChatGPT, Copilot, and similar, are strictly forbidden in this lab. It is your own responsibility to disable these tools if they are available in your code editor.
 
 ### Time/Break
 
@@ -50,7 +50,7 @@ We will use [[google colab]](https://colab.research.google.com/) as a platform f
 3. We encourage you to try solving problems on your own first, but we are always here to help if you need it. 
 4. **For each colab file below, you should make a copy in your own google drive to edit & run.**
 
-### short intro
+### short intro (you may simply skip this section if you are already familiar with these tools)
 
 - Colab/Markdown/latex intro [[env intro]](https://colab.research.google.com/drive/1DHVIdXVouXhQmnusmR-JLGBqT2_TsxCF?usp=sharing)
 
