@@ -52,7 +52,7 @@ We will use [[google colab]](https://colab.research.google.com/) as a platform f
 
 ### short intro (you may simply skip this section if you are already familiar with these tools)
 
-- Colab/Markdown/latex intro [[env intro]](https://colab.research.google.com/drive/1DHVIdXVouXhQmnusmR-JLGBqT2_TsxCF?usp=sharing)
+- [[env intro]](https://colab.research.google.com/drive/1DHVIdXVouXhQmnusmR-JLGBqT2_TsxCF?usp=sharing): Colab/Markdown/latex intro
 
 - [[Numpy]](https://colab.research.google.com/drive/1N_LQdkRL-PrQqtrUtKOXDDRxKW7Whioh?usp=sharing): Good enough to know matrix-matrix products
 
