@@ -2,9 +2,9 @@
 
 ## Introduction
 
-The lab course serves as a supplement to the theoretical part of machine learning class, with the following objectives:
+The lab course serves as a supplement to the theoretical part of machine learning course, with the following objectives:
 
-1. By implementation, reviewing concepts from the theoretical content covered in the previous term.
+1. By implementation, reviewing concepts from the theoretical content covered in the lectures.
 2. Develop intuition about how algorithmic designs affect testing performance.
 3. Gaining a basic familiarity with commonly used Python packages such as sklearn, numpy, and pytorch.
 
@@ -21,13 +21,15 @@ The students do coding. We will use [[google colab]](https://colab.research.goog
 
 ### Grading and Attendance
 
-1. Before leaving, please ask the instructor or TAs to review your completed exercises. After that, please sign the attendance sheet. If you are unable to complete it on time, based on the discretion of the instructor, you may email me (yangchen.eng.ox@gmail.com) no later than 5 p.m. the following day, using the email subject: Yourname-SessionDate-mllab2025.
+1. Before leaving, please ask the instructor or TAs to review your completed exercises. After that, sign the attendance sheet. Please also email the link to your completed Google Colab file to the instructor at yangchen.eng.ox@gmail.com no later than 5 p.m. (the end of your session), using the subject line: YourName-SessionDate-mllab2025.
 
-2. **Discussion is encouraged, and the correct answer should come from your own effort.**
+2. If you are unable to complete it on time, based on the discretion of the instructor, you may email no later than 5 p.m. **the following day**.
 
-3. Students should go to the registered session unless officially justified evidence is provided (e.g., doctor's note). Any absence should be reported to the student office.
+3. Discussion is encouraged, and the correct answer should come from your own effort.
 
-4. You are allowed to skip at most 4 questions without penalty. There are 17 in total.  
+4. Students should go to the registered session unless officially justified evidence is provided (e.g., doctor's note). Any absence should be reported to the student office.
+
+5. You are allowed to skip at most 4 questions without penalty. There are 17 in total **(this policy is subject to change, will be finalized before your session starts)**.  
 
 ### AI-based coding tools, such as ChatGPT, Copilot, and similar, are strictly forbidden in this lab. It is your own responsibility to disable these tools if they are available in your code editor.
 
@@ -41,7 +43,7 @@ Lunch break: 12:50 pm - 2:00 pm
 
 We will use [[google colab]](https://colab.research.google.com/) as a platform for exercises. Sufficient hint/code will be provided in the colab file for each option. **Again, please open an empty colab before you start to ensure that AI-based coding tools are disabled.**
 
-**NOTE: the content is not good to use before your session officially starts, as there might be last-minute updates.**
+**NOTE: the exercises are not good to use before your session officially starts, as there might be last-minute updates.**
 
 **Suggestions on how to approach the exercises:** 
 
