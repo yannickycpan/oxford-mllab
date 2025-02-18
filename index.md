@@ -41,7 +41,7 @@ Lunch break: 12:50 pm - 2:00 pm
 
 ## Content
 
-We will use [[google colab]](https://colab.research.google.com/) as a platform for exercises. Sufficient hint/code will be provided in the colab file for each option. **Again, please open an empty colab before you start to ensure that AI-based coding tools are disabled.**
+We will use [[google colab]](https://colab.research.google.com/) as a platform for exercises. Sufficient hint/code will be provided in the colab file. **Again, please open an empty colab before you start to ensure that AI-based coding tools are disabled.**
 
 **NOTE: the exercises are not good to use before your session officially starts, as there might be last-minute updates.**
 
