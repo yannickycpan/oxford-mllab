@@ -65,14 +65,14 @@ We will use [[google colab]](https://colab.research.google.com/) as a platform f
 
 ### Part I: Supervised learning
 
-- [[Regression]](https://colab.research.google.com/drive/1ZdImDbejqFlphpuEfo-DDWUYtumuEXZt?usp=sharing) [**4 Questions**]
+- [[Regression]](https://colab.research.google.com/drive/1ZdImDbejqFlphpuEfo-DDWUYtumuEXZt?usp=sharing) [**Regression: 4 Questions**]
 
-- [[SVM Classification]](https://colab.research.google.com/drive/1KoBV0mC0MZ8gvHeH5OsBaUZF9jtYbVWd?usp=sharing) [**2 Questions**]
+- [[SVM Classification]](https://colab.research.google.com/drive/1KoBV0mC0MZ8gvHeH5OsBaUZF9jtYbVWd?usp=sharing) [**Classification: 2 Questions**]
 
 ### Part II: Unsupervised learning 
 
-- [[Laplace Approximation]](https://colab.research.google.com/drive/1vd-B0jSvckiCQBtG_f7O9mQ7kcghM_sA?usp=sharing)  [**2 Questions**]
+- [[Laplace Approximation]](https://colab.research.google.com/drive/1vd-B0jSvckiCQBtG_f7O9mQ7kcghM_sA?usp=sharing)  [**Laplace Approximation: 2 Questions**]
 
 - [[Sampling Approaches]](https://colab.research.google.com/drive/1LhYEb2MFJtu5qs9BtselyCgkVaRYo1Nm?usp=sharing): inverse transform, rejection, metropolis [**4 Questions**]
 
-- [[(Variational) Autoencoders]](https://colab.research.google.com/drive/1trrFLB4HGk8Q4q14SnfJAk63fkAJDRiI?usp=sharing) [**5 Questions**]
+- [[(Variational) Autoencoders]](https://colab.research.google.com/drive/1trrFLB4HGk8Q4q14SnfJAk63fkAJDRiI?usp=sharing) [**Autoencoder: 5 Questions**]
