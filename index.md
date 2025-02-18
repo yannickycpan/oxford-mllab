@@ -70,7 +70,7 @@ We will use [[google colab]](https://colab.research.google.com/) as a platform f
 
 ### Part II: Unsupervised learning 
 
-**For this part, reviewing the relevant slides from last term's machine learning course could be helpful)**
+**For this part, reviewing the relevant slides from machine learning course slides could be helpful)**
 
 - [[Laplace Approximation]](https://colab.research.google.com/drive/1vd-B0jSvckiCQBtG_f7O9mQ7kcghM_sA?usp=sharing)  [**2 Questions**]
 
