@@ -50,7 +50,8 @@ We will use [[google colab]](https://colab.research.google.com/) as a platform f
 1. Avoid spending too much time on a single question. Aim to complete as many questions as you can initially, and then return to the ones you found challenging.
 2. The exercises are designed to be (mostly) self-contained, serving as a tutorial. For example, you should be able to learn how to define/train a simple neural network in PyTorch by examining the provided code. Feel free to consult the official documentation for some functions if necessary.
 3. We encourage you to try solving problems on your own first, but we are always here to help if you need it. 
-4. **For each colab file below, you should make a copy in your own google drive to edit & run.**
+4. Reviewing the relevant lecture slides could be helpful.
+5. **For each colab file below, you should make a copy in your own google drive to edit & run.**
 
 ### short intro (you may simply skip this section if you are already familiar with these tools)
 
@@ -69,8 +70,6 @@ We will use [[google colab]](https://colab.research.google.com/) as a platform f
 - [[SVM Classification]](https://colab.research.google.com/drive/1KoBV0mC0MZ8gvHeH5OsBaUZF9jtYbVWd?usp=sharing) [**2 Questions**]
 
 ### Part II: Unsupervised learning 
-
-**For this part, reviewing the relevant slides from machine learning course slides could be helpful)**
 
 - [[Laplace Approximation]](https://colab.research.google.com/drive/1vd-B0jSvckiCQBtG_f7O9mQ7kcghM_sA?usp=sharing)  [**2 Questions**]
 
