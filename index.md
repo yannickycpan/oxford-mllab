@@ -75,6 +75,6 @@ We will use [[google colab]](https://colab.research.google.com/) as a platform f
 
   A potential point of confusion: Laplace Approximation is a Bayesian inference technique that can be applied in both supervised and unsupervised learning problems. While it is categorized under unsupervised learning in this exercise, keep in mind that its applications extend beyond this context.
 
-- [[Sampling Approaches]](https://colab.research.google.com/drive/1LhYEb2MFJtu5qs9BtselyCgkVaRYo1Nm?usp=sharing): inverse transform, rejection, metropolis [**4 Questions**]
+- [[Sampling Approaches]](https://colab.research.google.com/drive/1LhYEb2MFJtu5qs9BtselyCgkVaRYo1Nm?usp=sharing): [**Inverse transform, rejection, metropolis: 4 Questions**]
 
 - [[(Variational) Autoencoders]](https://colab.research.google.com/drive/1trrFLB4HGk8Q4q14SnfJAk63fkAJDRiI?usp=sharing) [**Autoencoder: 5 Questions**]
