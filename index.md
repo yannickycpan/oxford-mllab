@@ -23,13 +23,13 @@ The students do coding. We will use [[google colab]](https://colab.research.goog
 
 1. Before leaving, please ask the instructor or TAs to review your completed exercises. After that, sign the attendance sheet. Please also email the link to your completed Google Colab file to the instructor at yangchen.eng.ox@gmail.com no later than 5 p.m. (the end of your session), using the subject line: YourName-SessionDate-mllab2025.
 
-2. If you are unable to complete it on time, based on the discretion of the instructor, you may email no later than 5 p.m. **the following day**.
+2. If you are unable to complete it on time before the end of your session, based on the discretion of the instructor, you may submit no later than 5 p.m. **the following day**.
 
 3. Discussion is encouraged, and the correct answer should come from your own effort.
 
 4. Students should go to the registered session unless officially justified evidence is provided (e.g., doctor's note). Any absence should be reported to the student office.
 
-5. You are allowed to skip at most 4 questions without penalty. There are 17 in total **(this policy is subject to change, will be finalized before your session starts)**.  
+5. You are allowed to skip at most 5 questions without penalty. There are 17 in total.  
 
 ### AI-based coding tools, such as ChatGPT, Copilot, and similar, are strictly forbidden in this lab. It is your own responsibility to disable these tools if they are available in your code editor. To turn it off, once you open a Colab file, go to Tools > Settings > AI Assistance > Hide Generative AI Features, and deselect the other options.
 
