@@ -31,7 +31,7 @@ The students do coding. We will use [[google colab]](https://colab.research.goog
 
 5. You are allowed to skip at most 5 questions without penalty. There are 17 in total.  
 
-### AI-based coding tools, such as ChatGPT, Copilot, and similar, are strictly forbidden in this lab. It is your own responsibility to disable these tools if they are available in your code editor. To turn it off, once you open a Colab file, go to Tools > Settings > AI Assistance > Hide Generative AI Features, and deselect the other options.
+### AI-based coding tools, such as ChatGPT, Copilot, and similar, are strictly forbidden in this lab. To turn it off, once you open a Colab file, go to Tools > Settings > AI Assistance > Hide Generative AI Features, and deselect the other options.
 
 ### Time/Break
 
