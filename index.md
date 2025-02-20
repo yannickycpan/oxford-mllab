@@ -37,7 +37,7 @@ The students do coding. We will use [[google colab]](https://colab.research.goog
 
 Lab runs from 11:00 am - 5:00 pm, Software Lab B.
 
-Lunch break: 12:50 pm - 2:00 pm
+Lunch break: 12:45 pm - 2:00 pm
 
 ## Content
 
