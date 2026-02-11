@@ -15,13 +15,13 @@ The students do coding. We will use [[google colab]](https://colab.research.goog
 ## Instructors
 
 - Instructor: Dr. Yangchen Pan (Email: yangchen.eng.ox@gmail.com)
-- TAs: Dr. Alasdair Paren; Dr. Cornelius Emde; Qizhen Ying; Jianhao Yuan. 
+- TAs: Aniq Rahman, Angel He, Kevin Qinghong Lin, Yishun Lu.
 
 ## Course Policy
 
 ### Grading and Attendance
 
-1. In the afternoon, the instructor or TAs will ask you to sign the attendance sheet. Please email the **links** of your completed Google Colab files (either multiple files or a single combined file is fine) to the instructor at yangchen.eng.ox@gmail.com no later than 5 p.m. (the end of your session), using the subject line: YourName-SessionDate-mllab2025.
+1. In the afternoon, the instructor or TAs will ask you to sign the attendance sheet. Please email the **links** of your completed Google Colab files (either multiple files or a single combined file is fine) to the instructor at yangchen.eng.ox@gmail.com no later than 5 p.m. (the end of your session), using the subject line: YourName-SessionDate-mllab2026.
 
 2. If you are unable to complete it on time before the end of your session, based on the discretion of the instructor, you may submit no later than 5 p.m. **the following day**.
 
