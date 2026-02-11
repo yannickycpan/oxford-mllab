@@ -21,13 +21,13 @@ The students do coding. We will use [[google colab]](https://colab.research.goog
 
 ### Grading and Attendance
 
-1. In the afternoon, the instructor or TAs will ask you to sign the attendance sheet. Please email the **links** of your completed Google Colab files (either multiple files or a single combined file is fine) to the instructor at yangchen.eng.ox@gmail.com no later than 5 p.m. (the end of your session), using the subject line: YourName-SessionDate-mllab2026.
+1. In the afternoon, the instructor will go to each of you for you to sign the attendance sheet. If you complete the required exercises before signing, please feel free to see the instructor to have your attendance recorded. Please email the **links** of your completed Google Colab files (either multiple files or a single combined file is fine) to the instructor at yangchen.eng.ox@gmail.com no later than 5 p.m. (the end of your session), using the subject line: YourName-SessionDate-mllab2026. After you have signed the attendance sheet **and** submitted your completed exercises, you are free to leave.  
 
-2. If you are unable to complete it on time before the end of your session, based on the discretion of the instructor, you may submit no later than 5 p.m. **the following day**.
+2. If you cannot complete it before the end of your session, please contact the instructor; you may be given additional time to submit without penalty. 
 
 3. Discussion is encouraged, and the correct answer should come from your own effort.
 
-4. Students should go to the registered session unless officially justified evidence is provided (e.g., doctor's note). Any absence should be reported to the student office.
+4. Please go to the registered session unless officially justified evidence is provided (e.g., doctor's note). Any absence should be reported to the student office. 
 
 5. You are allowed to skip at most 6 questions without penalty. There are 17 in total.  
 
