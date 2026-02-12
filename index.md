@@ -15,7 +15,7 @@ The students do coding. We will use [[google colab]](https://colab.research.goog
 ## Instructors
 
 - Instructor: Dr. Yangchen Pan (Email: yangchen.eng.ox@gmail.com)
-- TAs: Aniq Rahman, Angel He, Kevin Qinghong Lin, Yishun Lu.
+- TAs: Aleix Segui Ugalde, Aniq Rahman, Angel He, Kevin Qinghong Lin, Yishun Lu.
 
 ## Course Policy
 
@@ -23,9 +23,9 @@ The students do coding. We will use [[google colab]](https://colab.research.goog
 
 1. In the afternoon, the instructor will go to each of you for you to sign the attendance sheet. If you complete the required exercises before signing, please feel free to see the instructor to have your attendance recorded. Please email the **links** of your completed Google Colab files (either multiple files or a single combined file is fine) to the instructor at yangchen.eng.ox@gmail.com no later than 5 p.m. (the end of your session), using the subject line: YourName-SessionDate-mllab2026. After you have signed the attendance sheet **and** submitted your completed exercises, you are free to leave.  
 
-2. If you cannot complete it before the end of your session, please contact the instructor; you may be given additional time to submit without penalty. 
+2. The deadline to submit your work is the end of your session (5 pm). Submissions will be filtered by this time for grading. If you have a special request, feel free to contact the instructor; you may be granted additional time to submit without penalty. 
 
-3. Discussion is encouraged, and the correct answer should come from your own effort.
+3. Discussion is encouraged, and the correct answer should come from your own effort. 
 
 4. Please go to the registered session unless officially justified evidence is provided (e.g., doctor's note). Any absence should be reported to the student office. 
 
