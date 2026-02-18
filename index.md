@@ -25,11 +25,11 @@ The students do coding. We will use [[google colab]](https://colab.research.goog
 
 2. The deadline to submit your work is the end of your session (5 pm). Submissions will be filtered by this time for grading. If you have a special request, feel free to contact the instructor; you may be granted additional time to submit without penalty. 
 
-3. Discussion is encouraged, and the correct answer should come from your own effort. 
+3. You may skip up to 6 questions without penalty. There are 17 questions in total. Therefore, you must submit at least 11 questions. You may submit more than 11, but only the first 11 will be graded. 
 
-4. Please go to the registered session unless officially justified evidence is provided (e.g., doctor's note). Any absence should be reported to the student office and cc the instructor. 
+4. Discussion is encouraged, and the correct answer should come from your own effort. 
 
-5. You may skip up to 6 questions without penalty. There are 17 questions in total. Therefore, you must submit at least 11 questions. You may submit more than 11, but only the first 11 will be graded. 
+5. Please go to the registered session unless officially justified evidence is provided (e.g., doctor's note). Any absence should be reported to the student office and cc the instructor. 
 
 ### AI-based coding tools, such as ChatGPT, Copilot, and similar, are strictly forbidden in this lab. To turn it off, once you open a Colab file, go to Tools > Settings > AI Assistance > Hide Generative AI Features, and deselect the other options.
 
