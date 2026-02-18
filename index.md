@@ -19,19 +19,23 @@ The students do coding. We will use [[google colab]](https://colab.research.goog
 
 ## Lab Policy
 
-### Grading, Attendance and Submission
+## Attendance
 
-1. In the afternoon, the instructor will go to each of you for you to sign the attendance sheet. If you complete the required exercises before signing, please feel free to see the instructor to have your attendance recorded. Please email the **links** of your completed Google Colab files (either multiple files or a single combined file is fine) to the instructor at **yangchen.eng.ox@gmail.com** no later than 5 p.m. (the end of your session), using the subject line: YourName-SessionDate-mllab2026. After you have signed the attendance sheet **and** submitted your completed exercises, you are free to leave.  
+In the afternoon, the instructor will ask each student to sign the attendance sheet. If you finish the required exercises before signing, please see the instructor to have your attendance recorded. You may leave only after you have signed the attendance sheet and submitted your completed exercises.
 
-2. The deadline to submit your work is the end of your session (5 pm). Submissions will be filtered by this time for grading. If you have a special request, feel free to contact the instructor; you may be granted additional time to submit without penalty. 
+Please go to the registered session unless officially justified evidence is provided. Any absence should be reported to the student office and cc the instructor. 
+
+## Submission
+
+1. Please email the **links** of your completed Google Colab files (either multiple files or a single combined file is fine) to the instructor at **yangchen.eng.ox@gmail.com** no later than 5 p.m. (the end of your session), using the subject line: **YourName-SessionDate[DD/MM]-mllab2026**. 
+
+2. Only submissions received by 5:00 p.m. will be considered for grading. If you have a special request, please feel free to contact the instructor; additional time may be granted without penalty. 
 
 3. You may skip up to 6 questions without penalty. There are 17 questions in total. Therefore, you must submit at least 11 questions. You may submit more than 11, but only the first 11 will be graded. 
 
-4. Discussion is encouraged, and the correct answer should come from your own effort. 
+### Collaboration
 
-5. Please go to the registered session unless officially justified evidence is provided (e.g., doctor's note). Any absence should be reported to the student office and cc the instructor. 
-
-### AI-based coding tools, such as ChatGPT, Copilot, and similar, are strictly forbidden in this lab. To turn it off, once you open a Colab file, go to Tools > Settings > AI Assistance > Hide Generative AI Features, and deselect the other options.
+#### AI-based coding tools, such as ChatGPT, Copilot, and similar, are strictly forbidden in this lab. To turn it off, once you open a Colab file, go to Tools > Settings > AI Assistance > Hide Generative AI Features, and deselect the other options. Discussion is encouraged, and the correct answer should come from your own effort. 
 
 ### Time/Break
 
@@ -51,7 +55,7 @@ We will use [[google colab]](https://colab.research.google.com/) as a platform f
 2. The exercises are designed to be (mostly) self-contained, serving as a tutorial. For example, you should be able to learn how to define/train a simple neural network in PyTorch by examining the provided code. Feel free to consult the official documentation for some functions if necessary.
 3. We encourage you to try solving problems on your own first, but we are always here to help if you need it. 
 4. Reviewing the relevant lecture slides could be helpful.
-5. **For each colab file below, you should MAKE A COPY in your own google drive to edit & run. And remember to save your answer!!!**
+5. **For each colab file below, you should MAKE A COPY in your own google drive to edit & run. And remember to save your answer!!!!!!!!!**
 
 ### short intro (you may simply skip this section if you are already familiar with these tools)
 
