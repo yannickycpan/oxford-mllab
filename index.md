@@ -27,11 +27,14 @@ Please go to the registered session unless officially justified evidence is prov
 
 ## Submission
 
-1. Please email the **links** of your completed Google Colab files (either multiple files or a single combined file is fine) to the instructor at **yangchen.eng.ox@gmail.com** no later than 5 p.m. (the end of your session), using the subject line: **YourName-SessionDate[DD/MM]-mllab2026**. 
-
+1. Please email the **links** of your completed Google Colab files (either multiple files or a single combined file is fine) to the instructor at **yangchen.eng.ox@gmail.com** no later than 5 p.m. (the end of your session), using the subject line:
+    **YourName-SessionDate[DD/MM]-mllab2026**
+   
 2. Only submissions received by 5:00 p.m. will be considered for grading. If you have a special request, please feel free to contact the instructor; additional time may be granted without penalty. 
 
-3. You may skip up to 6 questions without penalty. There are 17 questions in total. Therefore, you must submit at least 11 questions. You may submit more than 11, but only the first 11 will be graded. 
+3. You may skip up to 6 questions without penalty. There are 17 questions in total. Therefore, you must submit at least 11 questions. You may submit more than 11, but only the first 11 will be graded.
+
+4. Remember to set the visibility of your Google Colab file to “Anyone with the link.” Click Share, then under “General access,” change the setting to “Anyone with the link.” 
 
 ### Collaboration
 
