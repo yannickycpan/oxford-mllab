@@ -17,19 +17,19 @@ The students do coding. We will use [[google colab]](https://colab.research.goog
 - Instructor: Dr. Yangchen Pan (Email: yangchen.eng.ox@gmail.com)
 - TAs: Aleix Segui Ugalde, Aniq Rahman, Angel He, Kevin Qinghong Lin, Yishun Lu.
 
-## Course Policy
+## Lab Policy
 
-### Grading and Attendance
+### Grading, Attendance and Submission
 
-1. In the afternoon, the instructor will go to each of you for you to sign the attendance sheet. If you complete the required exercises before signing, please feel free to see the instructor to have your attendance recorded. Please email the **links** of your completed Google Colab files (either multiple files or a single combined file is fine) to the instructor at yangchen.eng.ox@gmail.com no later than 5 p.m. (the end of your session), using the subject line: YourName-SessionDate-mllab2026. After you have signed the attendance sheet **and** submitted your completed exercises, you are free to leave.  
+1. In the afternoon, the instructor will go to each of you for you to sign the attendance sheet. If you complete the required exercises before signing, please feel free to see the instructor to have your attendance recorded. Please email the **links** of your completed Google Colab files (either multiple files or a single combined file is fine) to the instructor at **yangchen.eng.ox@gmail.com** no later than 5 p.m. (the end of your session), using the subject line: YourName-SessionDate-mllab2026. After you have signed the attendance sheet **and** submitted your completed exercises, you are free to leave.  
 
 2. The deadline to submit your work is the end of your session (5 pm). Submissions will be filtered by this time for grading. If you have a special request, feel free to contact the instructor; you may be granted additional time to submit without penalty. 
 
 3. Discussion is encouraged, and the correct answer should come from your own effort. 
 
-4. Please go to the registered session unless officially justified evidence is provided (e.g., doctor's note). Any absence should be reported to the student office. 
+4. Please go to the registered session unless officially justified evidence is provided (e.g., doctor's note). Any absence should be reported to the student office and cc the instructor. 
 
-5. You are allowed to skip at most 6 questions without penalty. There are 17 in total.  
+5. You are allowed to skip at most 6 questions without penalty. There are 17 in total. You can submit more than required. 
 
 ### AI-based coding tools, such as ChatGPT, Copilot, and similar, are strictly forbidden in this lab. To turn it off, once you open a Colab file, go to Tools > Settings > AI Assistance > Hide Generative AI Features, and deselect the other options.
 
@@ -37,11 +37,11 @@ The students do coding. We will use [[google colab]](https://colab.research.goog
 
 Lab runs from 11:00 am - 5:00 pm, Software Lab B.
 
-Lunch break: 12:45 pm - 2:00 pm
+Lunch break: 12:45 pm - 2:15 pm
 
 ## Content
 
-We will use [[google colab]](https://colab.research.google.com/) as a platform for exercises. Sufficient hint/code will be provided in the colab file. 
+We will use [[google colab]](https://colab.research.google.com/) as a platform for exercises. 
 
 **NOTE: the exercises are not good to use before your session officially starts, as there might be last-minute updates.**
 
@@ -51,13 +51,13 @@ We will use [[google colab]](https://colab.research.google.com/) as a platform f
 2. The exercises are designed to be (mostly) self-contained, serving as a tutorial. For example, you should be able to learn how to define/train a simple neural network in PyTorch by examining the provided code. Feel free to consult the official documentation for some functions if necessary.
 3. We encourage you to try solving problems on your own first, but we are always here to help if you need it. 
 4. Reviewing the relevant lecture slides could be helpful.
-5. **For each colab file below, you should make a copy in your own google drive to edit & run. Again, remember to disable the AI tools.**
+5. **For each colab file below, you should make a copy in your own google drive to edit & run. And remember to save your answer. Again, remember to disable the AI tools.**
 
 ### short intro (you may simply skip this section if you are already familiar with these tools)
 
 - [[env intro]](https://colab.research.google.com/drive/1DHVIdXVouXhQmnusmR-JLGBqT2_TsxCF?usp=sharing): Colab/Markdown/latex intro
 
-- [[Numpy]](https://colab.research.google.com/drive/1N_LQdkRL-PrQqtrUtKOXDDRxKW7Whioh?usp=sharing): Good enough to know matrix-matrix products
+- [[Numpy]](https://colab.research.google.com/drive/1N_LQdkRL-PrQqtrUtKOXDDRxKW7Whioh?usp=sharing): Good enough to know matrix-matrix/vector products
 
 - [[Object Oriented Programming]](https://colab.research.google.com/drive/1rWW_xM-Yv9tIyNGRF5QtWpjaCz0KajLu?usp=sharing): May be helpful to read first few paragraphs
 
