@@ -29,7 +29,7 @@ The students do coding. We will use [[google colab]](https://colab.research.goog
 
 4. Please go to the registered session unless officially justified evidence is provided (e.g., doctor's note). Any absence should be reported to the student office and cc the instructor. 
 
-5. You are allowed to skip at most 6 questions without penalty. There are 17 in total. You can submit more than required. 
+5. You may skip up to 6 questions without penalty. There are 17 questions in total. Therefore, you must submit at least 11 questions. You may submit more than 11, but only the first 11 will be graded. 
 
 ### AI-based coding tools, such as ChatGPT, Copilot, and similar, are strictly forbidden in this lab. To turn it off, once you open a Colab file, go to Tools > Settings > AI Assistance > Hide Generative AI Features, and deselect the other options.
 
@@ -51,7 +51,7 @@ We will use [[google colab]](https://colab.research.google.com/) as a platform f
 2. The exercises are designed to be (mostly) self-contained, serving as a tutorial. For example, you should be able to learn how to define/train a simple neural network in PyTorch by examining the provided code. Feel free to consult the official documentation for some functions if necessary.
 3. We encourage you to try solving problems on your own first, but we are always here to help if you need it. 
 4. Reviewing the relevant lecture slides could be helpful.
-5. **For each colab file below, you should make a copy in your own google drive to edit & run. And remember to save your answer. Again, remember to disable the AI tools.**
+5. **For each colab file below, you should MAKE A COPY in your own google drive to edit & run. And remember to save your answer!!!**
 
 ### short intro (you may simply skip this section if you are already familiar with these tools)
 
